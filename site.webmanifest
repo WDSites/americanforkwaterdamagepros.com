@@ -1,0 +1,21 @@
+{
+  "name": "American Fork Water Damage Pros",
+  "short_name": "AF Water Damage",
+  "description": "24/7 water damage restoration and mold remediation in American Fork, UT",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0D1B2A",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
